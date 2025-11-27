@@ -1,11 +1,25 @@
 # SCSDB.
 
-A beautiful, responsive **Movie Database (Frontend)** built with React.  
-A TMDB-style UI with purple/dark theme, sidebar navigation, trending carousel, movie details, trailers and search.
+A modern React-based movie database UI (SCSDB) with trending movies, search, trailers, and a dark purple theme inspired by TMDB. Built using React, Redux, React Router, and TMDB API.
 
 ![SCSDB Screenshot](./screenshots/homepage.png)
 
 ---
+-----
+##Topics
+
+react
+movie-app
+tmdb
+frontend
+javascript
+reactjs
+redux
+vite
+tailwindcss
+movie-database
+ui-design
+scsdb
 
 ## 🚀 Features
 
