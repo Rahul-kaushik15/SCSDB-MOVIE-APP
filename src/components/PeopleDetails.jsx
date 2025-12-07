@@ -4,7 +4,8 @@
 import { useEffect, useState } from "react";
 import { useDispatch, useSelector } from "react-redux";
 import { useNavigate, useParams, Outlet } from "react-router-dom";
-import { asyncloadpeople, removepeople } from "../store/actions/personActions"; 
+import { asyncloadpeople, removepeople } from "../store/actions/personActions";
+ 
 
 import { motion } from "framer-motion";
 
